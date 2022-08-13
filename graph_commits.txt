@@ -1,0 +1,113 @@
+*   commit d7d201cc83eb14ffef3fa6b3cba87b2eb98c1883
+|\  Merge: a999246 5fe0e03
+| | Author: Daniel Espindola <j.danielesp8062@gmail.com>
+| | Date:   Sat Aug 13 15:50:19 2022 -0500
+| | 
+| |     WIP on main: a999246 Problemas en el ramas 2
+| | 
+| * commit 5fe0e03f6bef980864c6c9587f97837b5809b50a
+|/  Author: Daniel Espindola <j.danielesp8062@gmail.com>
+|   Date:   Sat Aug 13 15:50:19 2022 -0500
+|   
+|       index on main: a999246 Problemas en el ramas 2
+|   
+*   commit a999246df3bd694f5c9d97e27b997b6338504cf3
+|\  Merge: 45fbf22 ffb4c80
+| | Author: Daniel Espindola <j.danielesp8062@gmail.com>
+| | Date:   Sat Aug 13 15:25:35 2022 -0500
+| | 
+| |     Problemas en el ramas 2
+| |   
+| *   commit ffb4c80ed734867b93584767a4fcb1b4b6fd75ea
+| |\  Merge: 3eea520 f6bf661
+| | | Author: Daniel Espindola <j.danielesp8062@gmail.com>
+| | | Date:   Thu Aug 11 19:45:23 2022 -0500
+| | | 
+| | |     Resolviendo conflicto entre rama html y main
+| | |   
+* | |   commit 45fbf22eee0bb6cef2c08d3f56ab5f73b258a82b
+|\ \ \  Merge: 3eea520 f6bf661
+| |/ /  Author: Daniel Espindola <j.danielesp8062@gmail.com>
+|/| /   Date:   Thu Aug 11 19:45:23 2022 -0500
+| |/    
+| |         Resolviendo conflicto entre rama html y main
+| | 
+| * commit f6bf661c66190477b848d162dd40471bee3b1749
+| | Author: Daniel Espindola <j.danielesp8062@gmail.com>
+| | Date:   Thu Aug 11 19:42:24 2022 -0500
+| | 
+| |     Prueba para conflicto de ramas
+| | 
+* | commit 3eea5200d19419218ea9db908cedbd22022c6f76
+|\| Merge: f723eeb 764119b
+| | Author: Daniel Espindola <j.danielesp8062@gmail.com>
+| | Date:   Thu Aug 11 19:40:06 2022 -0500
+| | 
+| |     Merge branch 'html'
+| | 
+| * commit 764119b1976ad4bcb7dae3249ba7442e68533871
+| | Author: Daniel Espindola <j.danielesp8062@gmail.com>
+| | Date:   Thu Aug 11 19:30:45 2022 -0500
+| | 
+| |     Uniendo JS y HTML en la rama html
+| | 
+* | commit f723eeb0951e7ae5648145422417db8c707654bf
+| | Author: Daniel Espindola <j.danielesp8062@gmail.com>
+| | Date:   Thu Aug 11 19:29:03 2022 -0500
+| | 
+| |     Uniendo CSS y HTML desde rama main
+| |   
+* |   commit 5ab13351028daa06dfff79586dc8dc0ed8161320
+|\ \  Merge: 0e83b93 ce0fda7
+| | | Author: Daniel Espindola <j.danielesp8062@gmail.com>
+| | | Date:   Thu Aug 11 19:19:20 2022 -0500
+| | | 
+| | |     Merge branch 'js'
+| | | 
+| * | commit ce0fda71121b3360e48fec465f7b32a2da2686f4
+| | | Author: Daniel Espindola <j.danielesp8062@gmail.com>
+| | | Date:   Thu Aug 11 19:11:45 2022 -0500
+| | | 
+| | |     Agregando JS en nueva rama
+| | | 
+* | | commit 0e83b93c4132436b76109bf07414f34c50e3a731
+| |/  Author: Daniel Espindola <j.danielesp8062@gmail.com>
+|/|   Date:   Thu Aug 11 18:48:36 2022 -0500
+| |   
+| |       Añadiendo estilos a tu pagina
+| | 
+* | commit 5d7585fd0ea4c63c9730016b52dc3280d4400ebf
+|/  Author: Daniel Espindola <j.danielesp8062@gmail.com>
+|   Date:   Thu Aug 11 18:44:15 2022 -0500
+|   
+|       Añadiendo archivo index.html en rama html
+| 
+* commit 0cce4666a26709493532ea6097a7e5006ae44879
+| Author: Daniel Espindola <j.danielesp8062@gmail.com>
+| Date:   Thu Aug 11 18:32:04 2022 -0500
+| 
+|     Ignorando Archivos
+| 
+* commit a3483d4f97df2d970523a52b20c73f814e0cca26
+| Author: JDaniel1838 <69540774+JDaniel1838@users.noreply.github.com>
+| Date:   Thu Aug 11 18:13:38 2022 -0500
+| 
+|     Cuarto commit - Agregando licencia MIT
+| 
+* commit 3ef65434350944092d6decc6a771a9ed7fbda82f
+| Author: Daniel Espindola <j.danielesp8062@gmail.com>
+| Date:   Thu Aug 11 18:09:20 2022 -0500
+| 
+|     Tercer cambio en el repo
+| 
+* commit 624e67ca6f3e37eefe4cac72ab3f18fcc086a48c
+| Author: Daniel Espindola <j.danielesp8062@gmail.com>
+| Date:   Thu Aug 11 17:57:04 2022 -0500
+| 
+|     Segundo commit, curso GIT
+| 
+* commit 14c65f3015f38b4f8900ef7f36931ec1ea1b6314
+  Author: Daniel Espindola <j.danielesp8062@gmail.com>
+  Date:   Thu Aug 11 17:55:32 2022 -0500
+  
+      Primer commit con curso de GIT
